@@ -11,3 +11,10 @@ if exist glfw (
 ) else (
     git clone https://github.com/glfw/glfw.git
 )
+
+if exist imgui (
+    cd imgui
+    git pull
+) else (
+    git clone https://github.com/ocornut/imgui.git
+)
