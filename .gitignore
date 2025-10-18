@@ -1,3 +1,7 @@
 fmt
+glad
 glad2
 glfw
+gsl
+imgui
+lua
