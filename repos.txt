@@ -1,0 +1,10 @@
+fmt https://github.com/fmtlib/fmt.git
+glm https://github.com/g-truc/glm.git
+glfw https://github.com/glfw/glfw.git
+imgui https://github.com/ocornut/imgui.git
+raylib https://github.com/raysan5/raylib.git
+lua https://github.com/lua/lua.git
+lz4 https://github.com/lz4/lz4.git
+cyclone https://github.com/thejinchao/cyclone.git
+axtrace https://github.com/thejinchao/AxTrace.git
+catch2 https://github.com/catchorg/Catch2.git

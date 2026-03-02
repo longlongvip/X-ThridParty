@@ -1,6 +1,11 @@
+cmake_minimum_required(VERSION 3.25)
 project(ThirdParty)
 
+add_subdirectory(catch2)
+add_subdirectory(cyclone)
+#add_subdirectory(axtrace)
 add_subdirectory(fmt)
-add_subdirectory(glfw)
 add_subdirectory(glad)
-#add_subdirectory(glad2)
+add_subdirectory(glfw)
+add_subdirectory(glm)
+#add_subdirectory(raylib)

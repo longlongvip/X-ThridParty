@@ -1,7 +1,15 @@
+.vscode
+axtrace
+build
+catch2
+cyclone
 fmt
 glad
 glad2
 glfw
+glm
 gsl
 imgui
-lua
+lua*
+lz4
+raylib
